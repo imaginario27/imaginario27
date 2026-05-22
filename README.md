@@ -23,7 +23,7 @@ That duality eliminates friction between design and development, accelerates dec
 `GraphQL` `REST API` `Vitest` `Vite` `Git / GitHub` `Netlify`
 
 **Design**
-`Figma` `Design Systems` `Accessibility (WCAG)`
+`Figma` `Design Systems` `UX Research` `Wireframing` `Interactive Prototyping` `User Testing` `Information Architecture` `Accessibility (WCAG)` `Responsive Design` `Branding`
 
 ---
 
