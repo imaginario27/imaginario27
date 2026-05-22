@@ -30,7 +30,7 @@ That duality eliminates friction between design and development, accelerates dec
 ## Currently working on
 
 - Building production apps with Vue 3, Nuxt and TypeScript at an AI research company
-- Developing a component library and design system adopted by my team
+- Developing and maintaining AirUI, an open source design system for Nuxt
 - Rebuilding my portfolio with Nuxt, GraphQL and my own design system
 
 ---
