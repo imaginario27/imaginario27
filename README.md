@@ -20,7 +20,7 @@ That duality eliminates friction between design and development, accelerates dec
 `Vue 3` `Nuxt` `TypeScript` `JavaScript ES6+` `Tailwind CSS` `CSS3` `HTML5`
 
 **Tooling & integrations**
-`GraphQL` `REST API` `Vitest` `Vite` `Git / GitHub` `Vercel / Netlify`
+`GraphQL` `REST API` `Vitest` `Vite` `Git / GitHub` `Netlify`
 
 **Design**
 `Figma` `Design Systems` `Accessibility (WCAG)`
