@@ -46,8 +46,7 @@ That duality eliminates friction between design and development, accelerates dec
 
 ## Featured projects
 
-<!-- Cambia "repo" por el nombre real del repositorio. Duplica el bloque para más proyectos. -->
-<a href="https://github.com/imaginario27/air-ui-ds">
+<a href="https://github.com/imaginario27/air-ui">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaginario27&repo=air-ui-ds&theme=transparent&hide_border=true" alt="AirUI" />
 </a>
 
