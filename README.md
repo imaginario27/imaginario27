@@ -1,8 +1,8 @@
+
+# Hey, I'm Roberto Carlos
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=6366F1&center=true&vCenter=true&width=620&lines=UI%2FUX+Designer+%26+Frontend+Developer;I+design+it.+I+build+it.;Vue+3+%C2%B7+Nuxt+%C2%B7+TypeScript" alt="UI/UX Designer & Frontend Developer" />
 </p>
-
-# Hey, I'm Roberto Carlos
 
 **UI/UX Designer & Frontend Developer** — I design interfaces and build them myself.
 
@@ -38,7 +38,7 @@ That duality eliminates friction between design and development, accelerates dec
 
 - Building production apps with Vue 3, Nuxt and TypeScript at an AI research company
 - Developing and maintaining **AirUI**, an open source design system for Nuxt
-  [![npm](https://img.shields.io/npm/v/@imaginario27/air-ui-ds?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@imaginario27/air-ui-ds)
+  [![npm](https://img.shields.io/npm/v/@imaginario27/air-ui?style=flat-square&color=6366f1)](https://www.npmjs.com/package/@imaginario27/air-ui-ds)
   [![Docs](https://img.shields.io/badge/docs-air--ui.netlify.app-000000?style=flat-square)](https://air-ui.netlify.app)
 - A food management app for families with AI flow integration
 
