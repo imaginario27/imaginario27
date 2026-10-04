@@ -55,7 +55,7 @@ I design interfaces in Figma and build them in Vue and Nuxt. The same person own
 
 ## Languages
 
-🇪🇸 Spanish (native) · 🇩🇪 German (native) · 🇬🇧 English (C1)
+<img src="https://flagcdn.com/w40/es.png" width="20" alt="Spain flag" /> Spanish (native)  ·  <img src="https://flagcdn.com/w40/de.png" width="20" alt="Germany flag" /> German (native)  ·  <img src="https://flagcdn.com/w40/gb.png" width="20" alt="United Kingdom flag" /> English (C1)
 
 ---
 
