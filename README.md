@@ -45,7 +45,10 @@ I design interfaces in Figma and build them in Vue and Nuxt. The same person own
 ## Featured projects
 
 <a href="https://github.com/imaginario27/air-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaginario27&repo=air-ui&theme=transparent&hide_border=true" alt="AirUI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imaginario27&repo=air-ui&show_owner=true&theme=transparent&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&border_color=30363d&border_radius=8&v=2">
+    <img alt="AirUI" src="https://github-readme-stats.vercel.app/api/pin/?username=imaginario27&repo=air-ui&show_owner=true&theme=transparent&title_color=4f46e5&text_color=24292f&icon_color=4f46e5&border_color=d0d7de&border_radius=8&v=2" />
+  </picture>
 </a>
 
 ---
