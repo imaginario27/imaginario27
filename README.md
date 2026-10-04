@@ -8,9 +8,9 @@ That duality eliminates friction between design and development, accelerates dec
 
 ## What I do
 
-- 🎨 **UI/UX** — Full process: research, user flows, wireframes, interactive prototypes, design systems, usability testing
-- 💻 **Frontend** — Clean, scalable, product-oriented code with Vue 3, Nuxt and TypeScript
-- 🤖 **AI-driven development** — I don't just use AI tools. I understand how models work internally, design precise prompts, orchestrate agents through MCPs, and verify that generated code is architecturally sound and production-ready
+- **UI/UX** — Full process: research, user flows, wireframes, interactive prototypes, design systems, usability testing
+- **Frontend** — Clean, scalable, product-oriented code with Vue 3, Nuxt, and TypeScript
+- **AI-driven development** — I don't just use AI tools. I understand how models work internally, design precise prompts, orchestrate agents through MCPs, and verify that generated code is architecturally sound and production-ready
 
 ---
 
@@ -31,7 +31,7 @@ That duality eliminates friction between design and development, accelerates dec
 
 - Building production apps with Vue 3, Nuxt and TypeScript at an AI research company
 - Developing and maintaining AirUI, an open source design system for Nuxt
-- Rebuilding my portfolio with Nuxt, GraphQL and my own design system
+- A food management app for families with IA flow integration.
 
 ---
 
