@@ -1,8 +1,10 @@
-# Hey, I'm Roberto Carlos 👋
+# Hey, I'm Roberto Carlos
 
 **UI/UX Designer & Frontend Developer** — I design interfaces and build them myself.
 
 That duality eliminates friction between design and development, accelerates decision-making, and delivers more coherent, better-executed digital products.
+
+![Commit FM](commit-fm.svg)
 
 ---
 
