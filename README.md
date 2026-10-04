@@ -1,17 +1,18 @@
 # Hey, I'm Roberto Carlos
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=6366F1&center=true&vCenter=true&width=620&lines=UI%2FUX+Designer+%26+Frontend+Developer;I+design+it.+I+build+it.;Vue+3+%C2%B7+Nuxt+%C2%B7+TypeScript" alt="UI/UX Designer & Frontend Developer" />
 </p>
 
-That duality eliminates friction between design and development, accelerates decision-making, and delivers more coherent, better-executed digital products.
+I design interfaces in Figma and build them in Vue and Nuxt. The same person owns the tokens, the components and the code, so nothing gets lost in handoff.
 
 ---
 
 ## What I do
 
-- **UI/UX** — Full process: research, user flows, wireframes, interactive prototypes, design systems, usability testing
-- **Frontend** — Clean, scalable, product-oriented code with Vue 3, Nuxt, and TypeScript
-- **AI-driven development** — I don't just use AI tools. I understand how models work internally, design precise prompts, orchestrate agents through MCPs, and verify that generated code is architecturally sound and production-ready
+- **UI/UX:** research, user flows, wireframes, interactive prototypes, design systems and usability testing.
+- **Frontend:** Vue 3, Nuxt and TypeScript, built on AirUI, the design system I maintain.
+- **AI-driven development:** I orchestrate agents through MCP, write detailed prompts, and review generated code for architecture before it ships.
 
 ---
 
@@ -43,7 +44,6 @@ That duality eliminates friction between design and development, accelerates dec
 
 ## Featured projects
 
-<!-- Duplica el bloque <a> para añadir más proyectos (cambia el valor de repo=). -->
 <a href="https://github.com/imaginario27/air-ui">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaginario27&repo=air-ui&theme=transparent&hide_border=true" alt="AirUI" />
 </a>
@@ -52,7 +52,7 @@ That duality eliminates friction between design and development, accelerates dec
 
 ## Languages
 
-🇪🇸 Spanish — Native · 🇩🇪 German — Native · 🇬🇧 English — C1
+🇪🇸 Spanish (native) · 🇩🇪 German (native) · 🇬🇧 English (C1)
 
 ---
 
@@ -61,8 +61,6 @@ That duality eliminates friction between design and development, accelerates dec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcvera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://imaginario27.com)
 [![AirUI](https://img.shields.io/badge/AirUI-6366f1?style=flat&logo=npm&logoColor=white)](https://air-ui.netlify.app)
-
-> *Anyone can build apps with AI. Not everyone can do it with architectural sense and real technical judgment.*
 
 <br />
 
